@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290138792655",
+    "firebase_url": "https://photogram-14e7e.firebaseio.com",
+    "project_id": "photogram-14e7e",
+    "storage_bucket": "photogram-14e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290138792655:android:1cb04df4dd00d6ed778dba",
+        "android_client_info": {
+          "package_name": "com.sumant.photogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290138792655-6cne39hon08b0u18kbk2am827uqovggc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_638LCodqgwIyytfd4wQOGTrwt4klnKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290138792655-6cne39hon08b0u18kbk2am827uqovggc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
